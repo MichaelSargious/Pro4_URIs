@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"uri","l":"Host"},{"p":"uri","l":"IPv4Address"},{"p":"uri","l":"Uri"},{"p":"uri","l":"UriParser"},{"p":"uri","l":"UriParserFactory"}]
